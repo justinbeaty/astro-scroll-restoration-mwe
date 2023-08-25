@@ -1,0 +1,2 @@
+//export const COLORS = ['#003f5c', '#2f4b7c', '#665191', '#a05195', '#d45087', '#f95d6a', '#ff7c43', '#ffa600'];
+export const COLORS = ['#00429d', '#174aa1', '#2552a5', '#2f5aa8', '#3962ac', '#416bb0', '#4973b3', '#517cb7', '#5884ba', '#608dbe', '#6895c1', '#6f9ec5', '#77a7c8', '#7fb0cb', '#87b8ce', '#90c1d1', '#99cad4', '#a2d3d7', '#acdbda', '#b7e4dc', '#c4ecde', '#d2f4e0', '#e4fbe1', '#ffffe0'];
